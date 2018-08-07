@@ -1,2 +1,2 @@
 class Artist < ActiveRecord::Base
-endl
+end
